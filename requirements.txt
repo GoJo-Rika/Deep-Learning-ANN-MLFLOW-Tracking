@@ -1,1 +1,7 @@
 mlflow
+keras
+tensorflow
+numpy
+pandas
+hyperopt
+scikit-learn
